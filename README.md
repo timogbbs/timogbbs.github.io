@@ -1,4 +1,4 @@
-<a href="https://www.discourse.org/">
+<a href="https://timog.net/">
   <img src="images/timog-bbs-logo-400.png" width="300px">
 </a>
 
