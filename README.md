@@ -16,7 +16,7 @@ Please visit [timog.net](https://timog.net/t/welcome-to-timog/930) to learn more
 
 <a href="https://timog.net/c/kanji/"><img alt="Timog BBS Kanji Dictionary" src="https://cdn.timog.net/original/2X/5/5572df55cb64bc329bbacd0df80b73b20d759a09.jpeg" width="720px"></a>
 
-## Built With
+## Discourse is Built With
 
 - [Ruby on Rails](https://github.com/rails/rails) &mdash; Our back end API is a Rails app. It responds to requests RESTfully in JSON.
 - [Ember.js](https://github.com/emberjs/ember.js) &mdash; Our front end is an Ember.js app that communicates with the Rails API.
@@ -26,7 +26,7 @@ Please visit [timog.net](https://timog.net/t/welcome-to-timog/930) to learn more
 
 Plus *lots* of Ruby Gems, a complete list of which is at [/main/Gemfile](https://github.com/discourse/discourse/blob/main/Gemfile).
 
-## Contributing
+## Contributing to Discourse
 
 [![Build Status](https://github.com/discourse/discourse/actions/workflows/tests.yml/badge.svg)](https://github.com/discourse/discourse/actions)
 
@@ -43,15 +43,11 @@ Before contributing to Discourse:
 
 We look forward to seeing your pull requests!
 
-## Security
-
-We take security very seriously at Discourse; all our code is 100% open source and peer reviewed. Please read [our security guide](https://github.com/discourse/discourse/blob/main/docs/SECURITY.md) for an overview of security measures in Discourse, or if you wish to report a security issue.
-
-## The Discourse Team
+## Discourse Contributors
 
 The original Discourse code contributors can be found in [**AUTHORS.MD**](docs/AUTHORS.md). For a complete list of the many individuals that contributed to the design and implementation of Discourse, please refer to [the official Discourse blog](https://blog.discourse.org/2013/02/the-discourse-team/) and [GitHub's list of contributors](https://github.com/discourse/discourse/contributors).
 
-## Copyright / License
+## Discourse Copyright and License
 
 Copyright 2014 - 2023 Civilized Discourse Construction Kit, Inc.
 
@@ -68,11 +64,3 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 Discourse logo and “Discourse Forum” ®, Civilized Discourse Construction Kit, Inc.
-
-## Accessibility
-
-To guide our ongoing effort to build accessible software we follow the [W3C’s Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/). If you'd like to report an accessibility issue that makes it difficult for you to use Discourse, email accessibility@discourse.org. For more information visit [discourse.org/accessibility](https://discourse.org/accessibility).
-
-## Dedication
-
-Discourse is built with [love, Internet style.](https://www.youtube.com/watch?v=Xe1TZaElTAs)
