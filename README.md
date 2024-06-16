@@ -10,49 +10,13 @@ Please visit [timog.net](https://timog.net/t/welcome-to-timog/930) to learn more
 
 ## Screenshots
 
-<a href="https://blog.discourse.org/2023/08/discourse-3-1-is-here/"><img alt="Discourse 3.1" src="https://github-production-user-asset-6210df.s3.amazonaws.com/5862206/261215898-ae95f963-5ab4-4509-b87a-f9f6e9a109bf.png" width="720px"></a>
+<a href="https://timog.net/c/forum/"><img alt="Timog BBS Forum" src="https://cdn.timog.net/original/2X/f/ffc7a102c48aedcf536cfe5b736022b645ae767a.png" width="720px"></a>
 
-<a href="https://bbs.boingboing.net"><img alt="Boing Boing" src="https://github-production-user-asset-6210df.s3.amazonaws.com/5862206/261580781-1413ac96-5d08-40b2-bc8e-27c3f2d3bfe6.png" width="720px"></a>
+<a href="https://timog.net/c/blog/"><img alt="Timog BBS Blog" src="https://cdn.timog.net/original/2X/d/d2a618a2d129da498f25d40c1b5c2dfdad5c9aff.jpeg" width="720px"></a>
 
-<a href="https://twittercommunity.com/"><img alt="X Community" src="https://github.com/discourse/discourse/assets/2790986/ebb63eee-1927-4060-ada1-cf1bc774084c.png" width="720px"></a>
+<a href="https://timog.net/c/kanji/"><img alt="Timog BBS Kanji Dictionary" src="https://cdn.timog.net/original/2X/b/b373314f37b724091e688a15caeebba40e0975fa.jpeg" width="720px"></a>
 
 <img src="https://user-images.githubusercontent.com/1681963/52239118-b304f800-289b-11e9-9904-16450680d9ec.jpg" alt="Mobile" width="414">
-
-Browse [lots more notable Discourse instances](https://www.discourse.org/customers).
-
-## Development
-
-To get your environment set up, follow the community setup guide for your operating system.
-
-1. If you're on macOS, try the [macOS development guide](https://meta.discourse.org/t/beginners-guide-to-install-discourse-on-macos-for-development/15772).
-1. If you're on Ubuntu, try the [Ubuntu development guide](https://meta.discourse.org/t/beginners-guide-to-install-discourse-on-ubuntu-for-development/14727).
-1. If you're on Windows, try the [Windows 10 development guide](https://meta.discourse.org/t/beginners-guide-to-install-discourse-on-windows-10-for-development/75149).
-1. If you're looking to use a simpler Docker-based install, try the [Docker development guide](https://meta.discourse.org/t/install-discourse-for-development-using-docker/102009).
-
-If you're familiar with how Rails works and are comfortable setting up your own environment, you can also try out the [**Discourse Advanced Developer Guide**](docs/DEVELOPER-ADVANCED.md), which is aimed primarily at Ubuntu and macOS environments.
-
-Before you get started, ensure you have the following minimum versions: [Ruby 3.2+](https://www.ruby-lang.org/en/downloads/), [PostgreSQL 13](https://www.postgresql.org/download/), [Redis 7](https://redis.io/download). If you're having trouble, please see our [**TROUBLESHOOTING GUIDE**](docs/TROUBLESHOOTING.md) first!
-
-## Setting up Discourse
-
-If you want to set up a Discourse forum for production use, see our [**Discourse Install Guide**](docs/INSTALL.md).
-
-If you're looking for official hosting, see [discourse.org/pricing](https://www.discourse.org/pricing/).
-
-## Requirements
-
-Discourse is built for the *next* 10 years of the Internet, so our requirements are high.
-
-Discourse supports the **latest, stable releases** of all major browsers and platforms:
-
-| Browsers              | Tablets      | Phones       |
-| --------------------- | ------------ | ------------ |
-| Apple Safari          | iPadOS       | iOS          |
-| Google Chrome         | Android      | Android      |
-| Microsoft Edge        |              |              |
-| Mozilla Firefox       |              |              |
-
-Additionally, we aim to support Safari on iOS 15.7+.
 
 ## Built With
 
@@ -78,7 +42,6 @@ Before contributing to Discourse:
 3. Dig into [**CONTRIBUTING.MD**](CONTRIBUTING.md), which covers submitting bugs, requesting new features, preparing your code for a pull request, etc.
 4. Always strive to collaborate [with mutual respect](https://github.com/discourse/discourse/blob/main/docs/code-of-conduct.md).
 5. Not sure what to work on? [**We've got some ideas.**](https://meta.discourse.org/t/so-you-want-to-help-out-with-discourse/3823)
-
 
 We look forward to seeing your pull requests!
 
