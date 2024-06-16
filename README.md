@@ -1,5 +1,5 @@
 <a href="https://www.discourse.org/">
-  <img src="images/timogbbs-logo-400.png" width="300px">
+  <img src="images/timog-bbs-logo-400.png" width="300px">
 </a>
 
 Discourse is the online home for your community. We offer a 100% open source community platform to those who want complete control over how and where their site is run.
