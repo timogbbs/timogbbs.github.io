@@ -12,7 +12,7 @@ Please visit [timog.net](https://timog.net/t/welcome-to-timog/930) to learn more
 
 <a href="https://timog.net/c/forum/"><img alt="Timog BBS Forum" src="https://cdn.timog.net/original/2X/b/b1c692791dfe0abbedc49bde4b9f3db9e1a4b3e3.png" width="720px"></a>
 
-<a href="https://timog.net/c/blog/"><img alt="Timog BBS Blog" src="https://cdn.timog.net/original/2X/d/d2a618a2d129da498f25d40c1b5c2dfdad5c9aff.jpeg" width="720px"></a>
+<a href="https://timog.net/c/blog/"><img alt="Timog BBS Blog" src="https://cdn.timog.net/original/2X/f/f37d631671b8af6d990d6733908ce02b4855c0b4.jpeg" width="720px"></a>
 
 <a href="https://timog.net/c/kanji/"><img alt="Timog BBS Kanji Dictionary" src="https://cdn.timog.net/original/2X/b/b373314f37b724091e688a15caeebba40e0975fa.jpeg" width="720px"></a>
 
