@@ -2,13 +2,11 @@
   <img src="images/timog-bbs-logo-400.png" width="300px">
 </a>
 
-**Timog BBS** is a message board for  [Filipinos in Japan](https://timog.net/t/filipinos-in-japan/974), a little corner of the Web where we can get together outside the gated walls of social media.
-
-Post a message, ask a question, talk about anything under the sun.
+**Timog BBS** is a message board for  [Filipinos in Japan](https://timog.net/t/filipinos-in-japan/974), a little corner of the Web where we can get together outside the gated walls of social media. Post a message, ask a question, talk about anything under the sun.
 
 Timog BBS is powered by [Discourse](https://www.discourse.org), an open source community platform.
 
-To learn more, please visit [**timog.net**](https://timog.net/t/welcome-to-timog/930) and join our community.
+To learn more, please visit [timog.net](https://timog.net/t/welcome-to-timog/930) and join our community.
 
 ## Screenshots
 
