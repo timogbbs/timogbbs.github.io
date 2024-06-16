@@ -2,11 +2,13 @@
   <img src="images/timog-bbs-logo-400.png" width="300px">
 </a>
 
-Discourse is the online home for your community. We offer a 100% open source community platform to those who want complete control over how and where their site is run.
+**Timog BBS** is a message board for  [Filipinos in Japan](https://timog.net/t/filipinos-in-japan/974), a little corner of the Web where we can get together outside the gated walls of social media.
 
-Our platform has been battle-tested for over a decade and continues to evolve to meet users’ needs for a powerful community platform. Discourse allows you to create discussion topics and connect using real-time chat, as well as access an ever-growing number of official and community themes. In addition, we offer a wide variety of plugins for features ranging from chatbots powered by [Discourse AI](https://meta.discourse.org/t/discourse-ai/259214) to functionalities like SQL analysis using the [Data Explorer](https://meta.discourse.org/t/discourse-data-explorer/32566) plugin.
+Post a message, ask a question, talk about anything under the sun.
 
-To learn more, visit [**discourse.org**](https://www.discourse.org) and join our support community at [meta.discourse.org](https://meta.discourse.org).
+Timog BBS is powered by [Discourse](https://www.discourse.org), an open source community platform.
+
+To learn more, please visit [**timog.net**](https://timog.net/t/welcome-to-timog/930) and join our community.
 
 ## Screenshots
 
