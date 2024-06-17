@@ -2,7 +2,9 @@
   <img src="images/timog-bbs-logo-400.png" width="300px">
 </a>
 
-**[Timog BBS](https://timog.net)** is a message board for  [Filipinos in Japan](https://timog.net/t/filipinos-in-japan/974), powered by Discourse. Post a message, ask a question, talk about anything under the sun. Please visit [timog.net](https://timog.net/t/welcome-to-timog/930) to learn more.
+**[Timog BBS](https://timog.net)** is a message board for  [Filipinos in Japan](https://timog.net/t/filipinos-in-japan/974), powered by Discourse.
+
+Post a message, ask a question, talk about anything under the sun. Please visit [timog.net](https://timog.net/t/welcome-to-timog/930) to learn more.
 
 ## Screenshots
 
